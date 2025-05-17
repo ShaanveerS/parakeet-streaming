@@ -32,7 +32,7 @@ This is the easiest way to get the server running with all its CUDA and NeMo dep
 1. **Clone the repository (if applicable):**
 
    ```bash
-   git clone <repository-url>
+   https://github.com/ShaanveerS/parakeet-streaming.git
    cd parakeet-realtime-server 
    ```
 2. **Create and activate a virtual environment:**
